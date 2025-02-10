@@ -57,9 +57,9 @@ Bonus OCR Task (bonus OCR not completed)
 
 ## Evaluation Metrics
 
-Classification Task: Accuracy, Precision, Recall, F1-score, Confusion Matrix.
+- Classification Task: Accuracy, Precision, Recall, F1-score, Confusion Matrix.
 
-OCR Task: CTC Loss, Loss Curve Over Epochs, Predicted vs Actual Text.
+- OCR Task: CTC Loss, Loss Curve Over Epochs, Predicted vs Actual Text.
 
 
 
