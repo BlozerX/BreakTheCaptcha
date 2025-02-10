@@ -5,11 +5,11 @@
 This project implements a system for CAPTCHA generation, classification, and optical character recognition (OCR). The codebase includes scripts for generating CAPTCHA images with different difficulty levels, training a CNN for classification, and implementing a CRNN for OCR.
 
 ## Directory Structure
-- Task 0 <br />  -- Captcha Generator
+- Task 0 <br />  -- Captcha Generator \
          -- Dataset Generator
 - Task 1 <br />  -- Classification Model \
          -- Confusion Matrix and Evaluation
-- Task 2 <br />  -- OCR Dataset Generator
+- Task 2 <br />  -- OCR Dataset Generator \
          -- CRNN Model \
          -- Training the Model
          
